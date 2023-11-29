@@ -1,0 +1,9 @@
+Max,Bichon,14,https://media.istockphoto.com/id/635988430/photo/cute-little-bichon-frise-dog.jpg?s=612x612&w=0&k=20&c=x__vTW3ocgOzNGjxvD1Z_MqNq2jhQ09HOL4SVnvAkZw=
+Daisy,Bichon,13,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/AG_Cody.jpg/1200px-AG_Cody.jpg
+Bolt,White Swiss Shepherd,12,https://en.wikifur.com/w/images/thumb/d/da/Disneyboltmovie-americanwhiteshepherd.jpg/461px-Disneyboltmovie-americanwhiteshepherd.jpg
+Pufi,Unknown,11,https://publish.purewow.net/wp-content/uploads/sites/2/2021/06/smallest-dog-breeds-toy-poodle.jpg?fit=728%2C524
+Lucy,Bichon,10,https://cdn-fastly.petguide.com/media/2022/02/16/8258104/maltichon.jpg?size=720x845&nocrop=1
+Charlie,Beagle,6,https://upload.wikimedia.org/wikipedia/commons/5/55/Beagle_600.jpg
+Buffy,Golden Retriever,4,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Golden_retriever-035.JPG/582px-Golden_retriever-035.JPG
+Sheriff,German Shepherd,3,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/German_Shepherd_-_DSC_0346_%2810096362833%29.jpg/440px-German_Shepherd_-_DSC_0346_%2810096362833%29.jpg
+Buck,Husky,1,https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Siberian-husky.jpg/440px-Siberian-husky.jpg
