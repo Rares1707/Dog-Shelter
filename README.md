@@ -14,6 +14,10 @@ This is the final iteration of the project developed for the OOP module at Babes
 - any modifications to the repository data made during the execution of the application will persist
 - validates input data
 
+## Technologies used
+- C++ 
+- Qt for the GUI
+
 ## Screenshots
 **Note: The visual appeal of the GUI was not a primary consideration.**
 
@@ -29,6 +33,3 @@ This is the final iteration of the project developed for the OOP module at Babes
 
 
 
-## Technologies used
-- C++ 
-- Qt for the GUI
