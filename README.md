@@ -1,7 +1,7 @@
 # Dog Shelter Application
 
 ## Overview
-This is the final iteration of the project developed for the OOP module at Babes-Bolyai University during my undergraduate degree.
+This is the final iteration of the project developed for the Object-Oriented Programming module at Babes-Bolyai University during my undergraduate degree. It is an application which which allows users to adopt dogs from a dog shelter. Additionally, it includes administrative functionalities, allowing the administrator to manage the dog repository.
 
 ## Features
 - built using layered architecture
